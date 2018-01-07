@@ -14,6 +14,9 @@ Obligatory capitalization of website name first letters once stored.
 ### Future Features
 Update Styling.  
 User submit description for bookmarks submitted.  
+Automatic preview of website.
+Creation of random note divs to put amongst the bookmarks.
+Draggable divs.
 
 
 ![Screenshot1](http://i65.tinypic.com/2echxkm.jpg)
